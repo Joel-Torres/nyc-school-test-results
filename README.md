@@ -3,5 +3,5 @@ In this notebook, we will take a look at data on SATs across public schools in N
 
 <h2>RPubs link to published article</h2>
 
-<a href="https://rpubs.com/Joel_Torres/nyc_schools_scores">Analyzing NYC Public School Test Result Scores</a>
+<a target="_blank" href="https://rpubs.com/Joel_Torres/nyc_schools_scores">Analyzing NYC Public School Test Result Scores</a>
 
